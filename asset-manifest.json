@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AIA_LAB1/static/css/main.69cb425f.chunk.css",
+    "main.js": "/AIA_LAB1/static/js/main.9613407e.chunk.js",
+    "main.js.map": "/AIA_LAB1/static/js/main.9613407e.chunk.js.map",
+    "runtime-main.js": "/AIA_LAB1/static/js/runtime-main.68babd85.js",
+    "runtime-main.js.map": "/AIA_LAB1/static/js/runtime-main.68babd85.js.map",
+    "static/js/2.48f35468.chunk.js": "/AIA_LAB1/static/js/2.48f35468.chunk.js",
+    "static/js/2.48f35468.chunk.js.map": "/AIA_LAB1/static/js/2.48f35468.chunk.js.map",
+    "index.html": "/AIA_LAB1/index.html",
+    "precache-manifest.87b7a4700483e7a12befeca99555018f.js": "/AIA_LAB1/precache-manifest.87b7a4700483e7a12befeca99555018f.js",
+    "service-worker.js": "/AIA_LAB1/service-worker.js",
+    "static/css/main.69cb425f.chunk.css.map": "/AIA_LAB1/static/css/main.69cb425f.chunk.css.map",
+    "static/js/2.48f35468.chunk.js.LICENSE.txt": "/AIA_LAB1/static/js/2.48f35468.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68babd85.js",
+    "static/js/2.48f35468.chunk.js",
+    "static/css/main.69cb425f.chunk.css",
+    "static/js/main.9613407e.chunk.js"
+  ]
+}
